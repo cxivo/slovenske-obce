@@ -1,6 +1,6 @@
 # Obce a mestá Slovenska
 
-Súradnice by mali ukazovať na stred mesta resp. obce
+Súradnice by mali ukazovať na stred mesta resp. obce.
 
 ## Formáty:
  - json (aktualizovaný)
@@ -17,9 +17,9 @@ Súradnice by mali ukazovať na stred mesta resp. obce
  - Okres
  - Kraj
  - Súradnice (Zväčša získané z Wikipédie)
- - Odkaz na článok Wikipédie o obci a kód Wikidata
+ - Odkaz na článok Wikipédie o obci a kód [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
  - maďarský a nemecký názov obce (ak je dostupný)
- - PSČ
+ - [PSČ](https://sk.wikipedia.org/wiki/Po%C5%A1tov%C3%A9_smerovacie_%C4%8D%C3%ADsla_na_Slovensku) (nie, nemôžete to považovať za číslo, je to string)
  - rok prvej písomnej zmienky (získaný z Wikipédie, je tu hlavne pre účely [OpenHistoricalMap](https://www.openhistoricalmap.org/))
  - počet obyvateľov k januáru 2025 (získané z [datacube.statistics.sk](https://datacube.statistics.sk/) pod licenciou [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/))
  - historický región (niekde chýba, zväčša z Wikipédie, ale málo časté hodnoty boli nahradené kvôli redukcii počtu regiónov)
